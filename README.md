@@ -7,6 +7,6 @@
 ├── README.md
 └── tools
     ├── make_list.ipynb
-    ├── make_list.py
+    ├── make_list.py    生成lst文件工具
     └── train_1w.csv
 ```
