@@ -5,7 +5,6 @@
 │   ├── image_train.lst
 │   └── image_val.lst
 ├── README.md
-├── data_address.txt
 ├── stawary
 │   └── README.md
 ├── storm
