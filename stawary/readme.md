@@ -1,13 +1,27 @@
-主体文件：
+**主体文件**：
 
-multi_detection_of_cars_impove_body_network.ipynb
+SSD模型: 1、multi_detection_of_cars_impove_body_network.ipynb
+
+​                 2、ssd模型，224×224图片训练.ipynb
+
+YOLO v2模型：Yolo2模型：多目标车辆检测.ipynb
 
 
 
-当前模型的权重文件：
+**模型的权重文件**：
+
+1、
 
 - improve_model_mae0.00725.params
 - improve_model_mae0.00657.params
+
+2、
+
+- bestmodel_mae0.00554.params
+
+3、
+
+- yolo2_resnet18_box_0.00136.params
 
 
 
